@@ -2,7 +2,10 @@
 ### Product Strategy & AI/ML Leader | Electrification | Control Systems | Digital Twin Innovation  
 
 I'm a Product Manager and AI/ML strategist with 8+ years of experience bridging advanced control systems, electrification, and intelligent engineering tools.  
-I specialize in turning complex technical systems into scalable, user-centric products, most recently at **John Deere**, where I lead **AI-driven electrification and validation platforms** powering next-generation off-road vehicles.
+With specialization in turning complex technical systems into scalable, user-centric products, most recently at **John Deere**, I lead **AI-driven electrification and validation platforms** powering next-generation off-road vehicles.
+
+> *Note:* This public portfolio showcases concept projects and AI/ML product ideas.
+> My professional GitHub activity resides in private enterprise environments (NDA-protected).
 
 ---
 
